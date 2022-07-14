@@ -2,5 +2,6 @@
 int main()
 {
     printf("Hello Wolrd!");
+
+    return 0 ;
 }
-return 0;

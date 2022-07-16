@@ -9,7 +9,7 @@ int main()
   {
     case 1 :
             printf("You have selected Porotta");
-            break;
+            break; 
     case 2 :
             printf("You have selected Biriyani");
             break;
